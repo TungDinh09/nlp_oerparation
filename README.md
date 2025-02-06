@@ -2,7 +2,7 @@ Here's an updated **README.md** file based on your request:
 
 ### README.md:
 
-```markdown
+
 # NLP Preparation FastAPI Project
 
 This project provides a FastAPI web application that cleans text data from different sources, such as Coursera and YouTube. It exposes a simple API and frontend for users to interact with and clean their text data.
