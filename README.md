@@ -130,7 +130,7 @@ __pycache__/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
+
 
 ### Key Changes in This README:
 - **Clarified the use of `fastapi[standard]`** in the requirements, so you’re aware of what dependencies FastAPI includes.
