@@ -1,1 +1,16 @@
-.venv
+.venv/
+# Ignore .venv folder
+.venv/
+
+# Ignore other common files/folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment variables file
+.env
+
+# Ignore IDE configurations (optional)
+.vscode/
+.idea/
